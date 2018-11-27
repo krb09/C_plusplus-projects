@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  main.cpp
+c:\users\kartik rattan\source\repos\homework10_linkedlist\homework10_linkedlist\linkedlist_rattan.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Homework10_linkedList.vcxproj -> C:\Users\Kartik Rattan\source\repos\Homework10_linkedList\Debug\Homework10_linkedList.exe

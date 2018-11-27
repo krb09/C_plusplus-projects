@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  homework3_vector.cpp
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(269): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\kartik rattan\source\repos\homework3_vector\homework3_vector\homework3_vector.cpp(308): warning C4018: '<': signed/unsigned mismatch
+  homework3_vector.vcxproj -> C:\Users\Kartik Rattan\source\repos\homework3_vector\Debug\homework3_vector.exe

@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  circle.cpp
+c:\users\kartik rattan\source\repos\homework8\homework8\circle.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+c:\users\kartik rattan\source\repos\homework8\homework8\triangle.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\kartik rattan\source\repos\homework8\homework8\circle.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Shapes_Kartik.cpp
+  sphere_kartik.cpp
+  tetrahedron_kartik.cpp
+  three_dim.cpp
+  triangle.cpp
+c:\users\kartik rattan\source\repos\homework8\homework8\triangle.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  triangle.h
+c:\users\kartik rattan\source\repos\homework8\homework8\triangle.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  two_dim.cpp
+  Generating Code...
+Debug\triangle.obj : warning LNK4042: object specified more than once; extras ignored
+  homework8.vcxproj -> C:\Users\Kartik Rattan\source\repos\homework8\Debug\homework8.exe
